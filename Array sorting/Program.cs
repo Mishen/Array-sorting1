@@ -6,7 +6,7 @@ namespace SortApp
         static void Main(string[] args)
         {
             // input
-            int[] nums = new int[7];
+            int[] nums = new int[20];
             Console.WriteLine("Insert twenty numbers");
             for (int i = 0; i < nums.Length; i++)
             {
